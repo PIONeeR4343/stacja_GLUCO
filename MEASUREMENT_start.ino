@@ -1,6 +1,7 @@
+
 void MEASUREMENT_start()
 {
-  if (start_meas == true)
+  if (start_meas == true) //test
   {
 
     if (start_open_file == true)
